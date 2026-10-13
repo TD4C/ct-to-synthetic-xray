@@ -218,3 +218,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets and preprocessing cache
+data/
+datasets/
+**/prepared_cache/
+
+# Temporary archives
+*.zip
+*.part
+
+# Training outputs and logs
+outputs/
+runs/
+logs/
+*.log
+
+# Ignore additional model checkpoints
+*.pth
+*.ckpt
+*.onnx
