@@ -1,4 +1,4 @@
-# CT to Synthetic X-ray (DRR) Generation
+# CT to Synthetic X-ray Generation
 
 **3D CT Volume → Synthetic 2D Projections · Deep Learning · PyTorch · Google Colab**
 
