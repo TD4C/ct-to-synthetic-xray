@@ -1,0 +1,7 @@
+numpy
+matplotlib
+nibabel
+tqdm
+ipywidgets
+requests
+torch
